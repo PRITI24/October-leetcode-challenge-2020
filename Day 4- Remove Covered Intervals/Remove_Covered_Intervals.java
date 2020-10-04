@@ -38,6 +38,7 @@ All the intervals are unique.
 
 */
 
+//Using Two-Pointer Approach 
 
 class Solution {
    public int removeCoveredIntervals(int[][] A) {
