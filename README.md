@@ -5,3 +5,5 @@
 # 2.Combination Sum
 # 3.K-diff pairs in an array
 # 4.Remove covered Intervals
+# 5.Complement of Base 10 Integer
+# 6.Insert into a Binary Search Tree
