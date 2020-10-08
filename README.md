@@ -8,3 +8,4 @@
 # 5.Complement of Base 10 Integer  (Easy)
 # 6.Insert into a Binary Search   (Medium)
 # 7.Rotate List                   (Medium)
+# 8.Binary Search                 (Easy)
