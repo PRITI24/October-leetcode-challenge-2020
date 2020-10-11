@@ -10,3 +10,4 @@
 # 7.Rotate List                   (Medium)
 # 8.Binary Search                 (Easy)
 # 9.Serialize and Deserialize BST (Medium)
+# 10.Minimum Number of Arrows to Burst Balloons (Medium)
